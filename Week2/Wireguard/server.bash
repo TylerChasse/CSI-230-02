@@ -1,7 +1,7 @@
 #!/bin/bash
 # Storyline: Script to create a wireguard server
 # Check to see if the wg0.conf file exists
-
+# used https://stackoverflow.com/questions/18608380/r-command-not-found to help with new line issues
 if [[ -f "wg0.conf" ]]
 then 
 	# Check to see if it should be overwritten
