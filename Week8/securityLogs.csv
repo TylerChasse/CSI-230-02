@@ -1,0 +1,341 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"5379","MSI","System.Byte[]","1398394","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:43:42 PM","10/17/2023 12:43:42 PM",,,
+"5379","MSI","System.Byte[]","1398393","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:43:42 PM","10/17/2023 12:43:42 PM",,,
+"5379","MSI","System.Byte[]","1398386","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398385","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398384","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398383","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398382","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398381","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398380","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398379","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398378","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398377","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398376","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398375","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398374","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398373","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398372","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398371","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398370","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398369","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398368","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398367","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398366","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398365","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398364","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398363","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398362","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398361","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398360","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398359","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398358","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398357","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398356","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
+"5379","MSI","System.Byte[]","1398355","(13824)","13824","SuccessAudit","Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-2996903744-1013943502-1924336455-1001
+	Account Name:		22cha
+	Account Domain:		MSI
+	Logon ID:		0x2cf72f2d
+	Read Operation:		%%8100
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","Microsoft-Windows-Security-Auditing","System.String[]","5379","10/17/2023 12:42:57 PM","10/17/2023 12:42:57 PM",,,
